@@ -3,6 +3,7 @@
 
 #include "jsapi.h"
 #include "uthash.h"
+#include "typeinfo"
 
 typedef struct js_proxy {
 	void *ptr;
